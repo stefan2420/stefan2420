@@ -96,11 +96,12 @@ timeline
 ### Live Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stefan2420&show_icons=true&theme=transparent&title_color=0b1320&text_color=111827&icon_color=0b1320&border_color=e5e7eb" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stefan2420&show_icons=true&theme=tokyonight&count_private=true" alt="Stefan's GitHub Stats" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefan2420&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="192px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefan2420&layout=compact&theme=transparent&title_color=0b1320&text_color=111827&border_color=e5e7eb" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stefan2420&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
