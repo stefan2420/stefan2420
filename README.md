@@ -3,7 +3,7 @@ Profile README for stefan2420
 --> 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b1320&height=180&section=header&text=Stefan%20Simionescu&fontColor=ffffff&fontSize=36&fontAlignY=35&desc=Founder%20%7C%20Cynthera%20Works%20LLC&descAlignY=55" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b1320&height=180&section=header&text=Stefan%20Simionescu&fontColor=ffffff&fontSize=36&fontAlignY=35&desc=Founder%20%7C%20Cynthera%20Works%20SRL&descAlignY=55" alt="Header" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Profile README for stefan2420
 <h2 align="center">Building clear, reliable systems for real-world operations</h2>
 
 <p align="center">
-I design and ship full-stack platforms with strong data foundations, elegant UI, and production-grade infrastructure. I lead Cynthera Works LLC, delivering software for regulated industries, logistics, and energy systems.
+I design and ship full-stack platforms with strong data foundations, elegant UI, and production-grade infrastructure. I lead Cynthera Works SRL, delivering software for regulated industries, logistics, and energy systems.
 </p>
 
 ---
@@ -65,7 +65,7 @@ timeline
     2020 : Industrial Web Operations
     2023 : Microservices & Identity
     2024 : Compliance Automation
-    2025 : Cynthera Works LLC
+    2025 : Cynthera Works SRL
 ```
 
 ---
@@ -85,7 +85,7 @@ timeline
 
 ---
 
-### Cynthera Works LLC
+### Cynthera Works SRL
 
 - Modern platforms for operational visibility, compliance, and performance
 - Focused on crisp UX, reliable pipelines, and deployable results
