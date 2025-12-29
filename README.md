@@ -90,6 +90,7 @@ timeline
 - Modern platforms for operational visibility, compliance, and performance
 - Focused on crisp UX, reliable pipelines, and deployable results
 - Building long-term systems, not short-term demos
+- Website: https://stefan2420.github.io/
 
 ---
 
